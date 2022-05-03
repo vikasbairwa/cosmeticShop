@@ -24,4 +24,9 @@ Developement Approach<br />
                     &emsp;&emsp;- Searched product area<br />
                     &emsp;&emsp;- Display area when noting is searched<br /><br />
                 
--> For more you can go througn the code it has proper comments for the ease of understanding.<br />
+-> For more you can go througn the code it has proper comments for the ease of understanding.<br /><br />
+
+Run the app<br />
+-> using command "npm i" in cosmeticshop folder and in api folder install all the dependencies of server and client.<br />
+-> run the server first with command "node app.js" in api folder.<br />
+-> run client with command "npm run start" in cosmeticshop older in a new terminal.<br />
