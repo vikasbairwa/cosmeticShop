@@ -1,0 +1,16 @@
+.noresult{
+    max-height:100vh;
+    max-width:100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.noresultimg{
+    height:50vh;
+    width:30vw;
+    background-image: url('https://img.freepik.com/free-vector/no-data-concept-illustration_114360-536.jpg?size=338&ext=jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
